@@ -1,5 +1,8 @@
 <div align='center'><img style="width:16%" src='https://user-images.githubusercontent.com/105128267/220607693-29987a1c-8f0d-4835-9bfe-3b5c9f326b17.png'/></div>
 
+![coinTee](https://user-images.githubusercontent.com/86670119/230826010-dfbe3b40-8ef6-416b-b459-94c174a43f27.png)
+
+
 <h2>About the project</h2>
 
 <p><b>CoinTee</b> is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies. <br/>
